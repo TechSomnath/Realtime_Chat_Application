@@ -1,5 +1,5 @@
 
-<h1>Hello! - ChatApp</h1>
+<h1>Realtime_Chat_Application</h1>
 <ul>
 <li>It's a Realtime Chatting Application that provides an interface for multiple user chatting at the same time.</li>
 <li>FrontEnd Technologies- HTML, CSS</li>
