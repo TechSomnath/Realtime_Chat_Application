@@ -1,4 +1,4 @@
-const socket = io('https://realtime-chat-application-wkg1.onrender.com');
+const socket = io('http://localhost:8000');
 
 const form = document.getElementById('send-container');
 const messageInput = document.getElementById('messageInp');
